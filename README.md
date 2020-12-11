@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claitonneri)](https://www.linkedin.com/in/claitonneri)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@claitondidone)](https://medium.com/@claitondidone)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claitondidone@gmail.com)](mailto:claitondidone@gmail.com)
-`
+
 My name is Claiton, I am a systems and innovation analyst at Guararapes, passionate about innovation, new technologies, specialist in IT solutions with a focus on business.
 
 More about me:

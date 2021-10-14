@@ -11,8 +11,9 @@ I am a Systems Analyst working in the Innovation area, passionate about the best
 
 [![Claiton Neri's Github Stats](https://github-readme-stats.vercel.app/api?username=claitonneri&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claitonneri&count_private=true&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
-  <a href="https://www.linkedin.com/in/claitonneri/">
+  <a href="https://www.linkedin.com/in/claitonneri/" target="_blank">
     <img src="https://raw.githubusercontent.com/claitonneri/claitonneri/main/linkedin.png" alt="LinkedIn" height="70">
   </a>
 </div>

@@ -13,7 +13,7 @@ I am a Systems Analyst working in the Innovation area, passionate about the best
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claitonneri&count_private=true&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.linkedin.com/in/claitonneri/">
-    <img src="https://github.com/claitonneri/claitonneri/github/linkedin.png" alt="LinkedIn" height="50">
+    <img src="https://github.com/claitonneri/github/linkedin.png" alt="LinkedIn" height="50">
   </a>
 </div>
 </div>

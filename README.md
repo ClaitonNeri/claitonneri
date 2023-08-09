@@ -1,5 +1,6 @@
 ### Hi, I'm Claiton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ![Badge](https://komarev.com/ghpvc/?username=claitonneri&color=green)
+![Badge](https://wakatime.com/badge/user/d9dc4a6d-6d01-43a5-b0bb-e5757bde93f9.svg)
 
 I am a Systems Analyst in the Innovation area at [**Guararapes**](https://www.guararapes.com.br). I have experience in projects with **ReactJS**, **NodeJS** and **React Native** technologies using **TypeScript**. I have a postgraduate degree in Mobile Application Development, an MBA in Full Stack Development and an MBA in E-commerce, where I got the practice of the most modern standards and technologies in web and mobile development.
 

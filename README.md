@@ -16,7 +16,7 @@ I am a Systems Analyst in the Innovation area at [**Guararapes**](https://www.gu
 
 ![Top Langs](https://github-readme-stats-claitonneri.vercel.app/api/top-langs/?username=claitonneri&count_private=true&layout=compact&theme=radical&bg_color=ffffff&title_color=191919&text_color=4c4c4c&icon_color=2B7EC6)
 
-![Claiton's wakatime stats](https://github-readme-stats-claitonneri.vercel.app/api/wakatime?username=claitonneri)
+[![Claiton's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=claitonneri)](https://github.com/claitonneri)
 
 #### 💬 Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claitonneri/)](https://www.linkedin.com/in/claitonneri/) 

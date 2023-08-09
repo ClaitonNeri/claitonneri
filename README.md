@@ -11,7 +11,7 @@ I am a Systems Analyst in the Innovation area at [**Guararapes**](https://www.gu
 🧰 And more...  
 
 #### Some statistics
-![Claiton Neri's Github Stats](https://github-readme-stats.vercel.app/api?username=claitonneri&count_private=true&show_icons=true&theme=radical&bg_color=ffffff&title_color=191919&text_color=4c4c4c&icon_color=2B7EC6)
+![Claiton Neri's Github Stats](https://github-readme-stats-claitonneri.vercel.app/api?username=claitonneri&count_private=true&show_icons=true&theme=radical&bg_color=ffffff&title_color=191919&text_color=4c4c4c&icon_color=2B7EC6)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claitonneri&count_private=true&layout=compact&theme=radical&bg_color=ffffff&title_color=191919&text_color=4c4c4c&icon_color=2B7EC6)
 

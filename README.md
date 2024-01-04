@@ -11,7 +11,7 @@ Atuo como Analista e Desenvolvedor de Software na área de Inovação da [**Guar
 🛠️ Typescript  
 🧰 e mais ...  
 
-#### Algumas estatísticas
+#### 📊 Algumas estatísticas
 ![Claiton Neri's Github Stats](https://github-readme-stats-claitonneri.vercel.app/api?username=claitonneri&count_private=true&show_icons=true&theme=radical&bg_color=ffffff&title_color=191919&text_color=4c4c4c&icon_color=2B7EC6)
 
 ![Top Langs](https://github-readme-stats-claitonneri.vercel.app/api/top-langs/?username=claitonneri&count_private=true&layout=compact&theme=radical&bg_color=ffffff&title_color=191919&text_color=4c4c4c&icon_color=2B7EC6)

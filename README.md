@@ -2,12 +2,12 @@
 ![Badge](https://komarev.com/ghpvc/?username=claitonneri&color=green)
 ![Badge](https://wakatime.com/badge/user/d9dc4a6d-6d01-43a5-b0bb-e5757bde93f9.svg)
 
-I am a Systems Analyst in the Innovation area at [**Guararapes**](https://www.guararapes.com.br). I have experience in projects with **ReactJS**, **NodeJS** and **React Native** technologies using **TypeScript**. I have a postgraduate degree in Mobile Application Development, an MBA in Full Stack Development and an MBA in E-commerce, where I got the practice of the most modern standards and technologies in web and mobile development.
+Atuo como Analista e Desenvolvedor de Software na área de Inovação da [**Guararapes**](https://www.guararapes.com.br). Tenho experiência em projetos utilizando tecnologias **ReactJS**, **NodeJS** e **React Native**. Possuo pós-graduação em Desenvolvimento de Aplicações Mobile, MBA em Desenvolvimento Full Stack e MBA em E-commerce, e com participação em projetos que contribuíram na implementação de modernos padrões de software, desenvolvimento com tecnologias de desenvolvimento web e mobile referências de mercado e conhecimento de negócios.
 
 #### My current tools
-📲 Front-end Mobile with React Native  
-🌎 Front-end Web with Reactjs  
-📡 Back-end with Nodejs  
+📲 Desenvolvimento Mobile com React Native  
+🌎 Desenvolvimento Web com Reactjs  
+📡 Desenvolvimento Backend com Nodejs  
 🛠️ Typescript  
 🧰 And more...  
 

@@ -2,7 +2,7 @@
 ![Badge](https://komarev.com/ghpvc/?username=claitonneri&color=green)
 ![Badge](https://wakatime.com/badge/user/d9dc4a6d-6d01-43a5-b0bb-e5757bde93f9.svg)
 
-Atuo como Analista e Desenvolvedor de Software na área de Inovação da [**Guararapes**](https://www.guararapes.com.br). Tenho experiência em projetos utilizando tecnologias **ReactJS**, **NodeJS** e **React Native**. Possuo pós-graduação em Desenvolvimento de Aplicações Mobile, MBA em Desenvolvimento Full Stack e MBA em E-commerce, e com participação em projetos que contribuíram na implementação de modernos padrões de software, desenvolvimento com tecnologias de desenvolvimento web e mobile referências de mercado e conhecimento de negócios.
+Atuo como Analista e Desenvolvedor de Software na área de Inovação da [**Guararapes**](https://www.guararapes.com.br). Tenho experiência em projetos utilizando tecnologias **ReactJS**, **NodeJS** e **React Native**. Possuo pós-graduação em Desenvolvimento de Aplicações Mobile, MBA em Desenvolvimento Full Stack e MBA em E-commerce, e com participação em projetos que contribuíram na implementação de modernos padrões de software, utilização de tecnologias de desenvolvimento web e mobile referências de mercado e conhecimento de negócios.
 
 #### Minhas principais tecnologias
 📲 Desenvolvimento Mobile com React Native  
